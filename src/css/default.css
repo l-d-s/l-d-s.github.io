@@ -12,6 +12,9 @@
 html,
 body {
   min-height: 100vh;
+  /* not sure of best way to do this */
+  max-width: 65em;
+  margin: auto;
 }
 body {
   font-kerning: normal;
@@ -30,7 +33,7 @@ button {
 }
 h1,
 h2 {
-  font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
+  font-family: "Times New Roman", Times, serif;
 }
 h1 {
   font-size: 4.0rem;
@@ -40,7 +43,7 @@ h2 {
 }
 small,
 p {
-  font-family: Tahoma, Arial, sans-serif;
+  font-family: "Times New Roman", Times, serif;
 }
 small {
   font-size: 1.6rem;
@@ -51,4 +54,10 @@ p {
 }
 pre.sourceCode {
   padding: 2rem 1.5rem;
+}
+
+
+header {
+  font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  font-size: 1.6rem;
 }
