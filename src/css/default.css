@@ -57,8 +57,18 @@ pre.sourceCode {
   padding: 2rem 1.5rem;
 }
 
-
 header {
   font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
   font-size: 1.6rem;
+}
+
+a:link {
+  color: #0959a3;
+  text-decoration: none;
+}
+a:hover{
+  text-decoration: underline;
+}
+a:visited{
+  color: #915906;
 }
