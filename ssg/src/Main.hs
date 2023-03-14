@@ -29,10 +29,10 @@ mySiteRoot :: String
 mySiteRoot = "https://my-site.com"
 
 myFeedTitle :: String
-myFeedTitle = "Blog"
+myFeedTitle = "Posts"
 
 myFeedDescription :: String
-myFeedDescription = "Blog feed"
+myFeedDescription = "Feed"
 
 myFeedAuthorName :: String
 myFeedAuthorName = "Leon Di Stefano"
