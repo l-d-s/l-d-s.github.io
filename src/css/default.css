@@ -15,6 +15,7 @@ body {
   /* not sure of best way to do this */
   max-width: 65em;
   margin: auto;
+  padding: 5px
 }
 body {
   font-kerning: normal;
