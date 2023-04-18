@@ -79,6 +79,7 @@ main = hakyllWith config $ do
     , "robots.txt"
     , "_config.yml"
     , "images/*"
+    , "assets/*"
     , "js/*"
     , "fonts/*"
     ]
