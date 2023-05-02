@@ -25,6 +25,7 @@ body {
   font-feature-settings: "kern", "liga", "clig", "calt";
   scroll-behavior: smooth;
   font-size: 2rem;
+  font-family: "Nimbus Roman", "Times New Roman", Times, serif;
 }
 body,
 input,
@@ -34,15 +35,14 @@ button {
 }
 h1 {
   font-size: 4.0rem;
-  font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  font-family: "Proza Libre", 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
 h2 {  
   font-size: 2.6rem;
-  font-family: "Times New Roman", Times, serif;
+  font-family: "Nimbus Roman", "Times New Roman", Times, serif;
 }
 small,
 p {
-  font-family: "Times New Roman", Times, serif;
 }
 small {
   font-size: 1.6rem;
@@ -56,7 +56,7 @@ pre.sourceCode {
 }
 
 header {
-  font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  font-family: "Proza Libre", 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
   font-size: 1.6rem;
 }
 
