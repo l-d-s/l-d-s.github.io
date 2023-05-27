@@ -26,7 +26,7 @@ mySiteName :: String
 mySiteName = "Leon Di Stefano"
 
 mySiteRoot :: String
-mySiteRoot = "https://my-site.com"
+mySiteRoot = "https://l-d-s.github.io"
 
 myFeedTitle :: String
 myFeedTitle = "Posts"
