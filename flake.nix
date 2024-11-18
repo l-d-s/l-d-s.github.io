@@ -8,7 +8,7 @@
       "https://cache.iog.io"
       # Needed only for Mac OS build
       # https://github.com/input-output-hk/haskell.nix/issues/1408
-      "https://cache.zw3rk.com" 
+      # "https://cache.zw3rk.com"
     ];
     extra-trusted-public-keys = [
       "hydra.iohk.io:f/Ea+s+dFdN+3Y/G+FDgSq+a5NEWhJGzdjvKNGv0/EQ="
