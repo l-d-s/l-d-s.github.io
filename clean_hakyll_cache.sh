@@ -1,3 +1,4 @@
 
-nix build --print-build-logs &&   nix run . clean &&   nix run . watch
-
+nix build --print-build-logs \
+    && nix run . clean \
+    && nix run . watch
