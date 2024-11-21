@@ -24,9 +24,9 @@ body {
   -webkit-font-feature-settings: "kern", "liga", "clig", "calt";
   font-feature-settings: "kern", "liga", "clig", "calt";
   scroll-behavior: smooth;
-  font-size: 1.8rem;
+  font-size: 1.7rem;
   line-height: 2.3rem;
-  font-family: "Times New Roman", Times, "Nimbus Roman", serif;
+  font-family: "Stix Two Text", "Times New Roman", Times, "Nimbus Roman", serif;
 }
 body,
 input,
@@ -46,7 +46,7 @@ h2 {
   font-weight: 600;
 }
 h3 {
-  font-size: 1.6rem;
+  font-size: 1.7rem;
   font-weight: 600;
   font-style: italic;
   display: inline;
@@ -58,9 +58,6 @@ p + h3 {
 small {
   font-size: 1.6rem;
   font-style: italic;
-}
-p {
-  font-size: 1.8rem;
 }
 pre.sourceCode {
   padding: 2rem 1.5rem;
