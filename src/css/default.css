@@ -26,7 +26,7 @@ body {
   scroll-behavior: smooth;
   font-size: 1.7rem;
   line-height: 2.3rem;
-  font-family: "Times New Roman", Times, "Stix Two Text", "Nimbus Roman", serif;
+  font-family: "Stix Two Text", "Times New Roman", Times, "Nimbus Roman", serif;
 }
 body,
 input,
