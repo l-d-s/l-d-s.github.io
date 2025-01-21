@@ -75,7 +75,7 @@ header {
 
 a:link {
   color: #0053a1;
-  text-decoration: none;
+  text-decoration: underline;
 }
 a:hover{
   text-decoration: underline;
