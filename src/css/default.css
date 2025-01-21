@@ -76,9 +76,11 @@ header {
 a:link {
   color: #0053a1;
   text-decoration: underline;
+  text-underline-offset: 0.3rem;
+  text-decoration-thickness: 0.5px;
 }
 a:hover{
-  text-decoration: underline;
+  text-decoration: none;
 }
 a:visited{
   color: #1a8235;
