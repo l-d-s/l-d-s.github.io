@@ -77,11 +77,13 @@ a:link {
   color: #0053a1;
   text-decoration: underline;
   text-underline-offset: 0.3rem;
-  text-decoration-thickness: 0.5px;
+  text-decoration-thickness: .5px;
+  text-decoration-color:#598cbd
 }
 a:hover{
   text-decoration: none;
 }
 a:visited{
   color: #1a8235;
+  text-decoration-color: #559867
 }
