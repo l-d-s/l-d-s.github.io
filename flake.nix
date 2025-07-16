@@ -27,7 +27,7 @@
           (final: prev: {
             hakyllProject = final.haskell-nix.project' {
               src = ./ssg;
-              compiler-nix-name = "ghc925";
+              compiler-nix-name = "ghc912";
               shell.buildInputs = [
                 hakyll-site
               ];
